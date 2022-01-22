@@ -1,0 +1,11 @@
+{
+  "version": "0.2",
+  "ignorePaths": [
+    "yarn.lock",
+    ".vscode/extensions.json",
+  ],
+  "words": [
+    "vite",
+    "vitejs"
+  ]
+}
